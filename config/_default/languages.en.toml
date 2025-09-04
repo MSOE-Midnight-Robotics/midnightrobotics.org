@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Midnight Robotics"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "images/banner-logo.png"
+  # secondaryLogo = "images/logo.png"
+  description = "MSOE Midnight Robotics Official Website"
+  copyright = "© 2025 Midnight Robotics"
+
+[params.author]
+  name = "Midnight Robotics"
+  email = "leadership@midnightrobotics.org"
+  image = "images/logo.png"
+  imageQuality = 96
+  headline = "Premier Combat Robotics Team at the Milwaukee School of Engineering"
+  bio = "Midnight Robotics is a student-led combat robotics team at the Milwaukee School of Engineering (MSOE). Founded in 2021, the team designs, builds, and competes with high-performance battlebots in national competitions. Committed to innovation and excellence, Midnight Robotics provides students with hands-on experience in engineering, teamwork, and problem-solving, preparing them for successful careers in the field of robotics and beyond."
+  links = [
+    { email = "leadership@midnightrobotics.org" },
+    { linkedin = "https://www.linkedin.com/company/msoe-midnight-robotics/" },
+    { github = "https://github.com/MSOE-Midnight-Robotics" },
+    { facebook = "https://www.facebook.com/Midnight_Robotics_Battlebots" },
+    { instagram = "https://www.instagram.com/midnight_robotics_battlebot/" },
+    { youtube = "https://www.youtube.com/channel/UC2I2HOOKJ-tt-EgcXRE-MUw" },
+  ]
