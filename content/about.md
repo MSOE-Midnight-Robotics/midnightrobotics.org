@@ -92,43 +92,43 @@ Started in fall of 2021 by five MSOE students with the goal of creating an unpar
 
 <div class="leadership-grid">
   <div class="leader-card">
-    <img src="/images/leadership/travis-jankowski.jpg" alt="Travis Jankowski" class="leader-photo" />
+    <img src="images/leadership/travis-jankowski.jpg" alt="Travis Jankowski" class="leader-photo" />
     <div class="leader-name">Travis Jankowski</div>
     <div class="leader-title">President</div>
   </div>
   
   <div class="leader-card">
-    <img src="/images/leadership/luke-anderson.jpg" alt="Luke Anderson" class="leader-photo" />
+    <img src="images/leadership/luke-anderson.jpg" alt="Luke Anderson" class="leader-photo" />
     <div class="leader-name">Luke Anderson</div>
     <div class="leader-title">Vice President</div>
   </div>
   
   <div class="leader-card">
-    <img src="/images/leadership/nick-kantor.jpg" alt="Nick Kantor" class="leader-photo" />
+    <img src="images/leadership/nick-kantor.jpg" alt="Nick Kantor" class="leader-photo" />
     <div class="leader-name">Nick Kantor</div>
     <div class="leader-title">Treasurer</div>
   </div>
   
   <div class="leader-card">
-    <img src="/images/leadership/griffin-hill.jpg" alt="Griffin Hill" class="leader-photo" />
+    <img src="images/leadership/griffin-hill.jpg" alt="Griffin Hill" class="leader-photo" />
     <div class="leader-name">Griffin Hill</div>
     <div class="leader-title">Secretary</div>
   </div>
   
   <div class="leader-card">
-    <img src="/images/leadership/daniel-portwine.jpg" alt="Daniel Peter Portwine" class="leader-photo" />
+    <img src="images/leadership/daniel-portwine.jpg" alt="Daniel Peter Portwine" class="leader-photo" />
     <div class="leader-name">Daniel Peter Portwine</div>
     <div class="leader-title">Project Manager</div>
   </div>
   
   <div class="leader-card">
-    <img src="/images/leadership/richard-dykowski.jpg" alt="Richard Dykowski" class="leader-photo" />
+    <img src="images/leadership/richard-dykowski.jpg" alt="Richard Dykowski" class="leader-photo" />
     <div class="leader-name">Richard Dykowski</div>
     <div class="leader-title">Advisor</div>
   </div>
   
   <div class="leader-card">
-    <img src="/images/leadership/mike-meilicke.png" alt="Mike Meilicke" class="leader-photo" />
+    <img src="images/leadership/mike-meilicke.png" alt="Mike Meilicke" class="leader-photo" />
     <div class="leader-name">Mike Meilicke</div>
     <div class="leader-title">Advisor</div>
   </div>
