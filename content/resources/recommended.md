@@ -1,7 +1,7 @@
 +++
 date = '2025-09-25T13:54:45-05:00'
 draft = true
-title = 'Quick Resources'
+title = 'Recommended'
 +++
 
 This page represents a curated list of combat robotics resources. If something is out of date or you'd like something added, just let Midnight Robotics leadership know.
