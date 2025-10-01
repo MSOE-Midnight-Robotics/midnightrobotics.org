@@ -1,0 +1,111 @@
+/* Midnight Robotics Custom Styles */
+
+/* Enhanced sponsor grid styling for better visibility */
+.sponsors-grid img {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 0.5rem;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.sponsors-grid img:hover {
+  transform: scale(1.05);
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Enhanced leadership card styling */
+.leader-card {
+  background: rgba(var(--color-neutral-100), 0.8);
+  border: 1px solid rgba(var(--color-neutral-200), 0.5);
+  backdrop-filter: blur(10px);
+}
+
+.leader-card:hover {
+  background: rgba(var(--color-neutral-100), 0.9);
+  border-color: rgba(var(--color-primary-500), 0.3);
+}
+
+/* Ensure text colors follow the scheme */
+.leader-name {
+  color: rgb(var(--color-neutral-900));
+}
+
+.leader-title {
+  color: rgb(var(--color-neutral-700));
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgb(var(--color-neutral-50));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(var(--color-neutral-300));
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(var(--color-neutral-400));
+}
+
+/* Enhanced code block styling */
+pre,
+code {
+  background-color: rgb(var(--color-neutral-50)) !important;
+  border: 1px solid rgb(var(--color-neutral-200));
+  color: rgb(var(--color-neutral-800));
+}
+
+/* Better button styling for content buttons only */
+.content button,
+.button {
+  background-color: rgb(var(--color-primary-500));
+  color: rgb(var(--color-neutral-50));
+  border: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.content button:hover,
+.button:hover {
+  background-color: rgb(var(--color-primary-600));
+  transform: translateY(-2px);
+}
+
+/* Fix header buttons (search, theme toggle) to be transparent */
+header button,
+.search-button,
+.appearance-switcher button,
+[data-search-toggle],
+[data-appearance-toggle] {
+  background-color: transparent !important;
+  border: none !important;
+  color: rgb(var(--color-neutral-900)) !important;
+  padding: 0.5rem !important;
+}
+
+header button:hover,
+.search-button:hover,
+.appearance-switcher button:hover,
+[data-search-toggle]:hover,
+[data-appearance-toggle]:hover {
+  background-color: rgba(var(--color-neutral-200), 0.1) !important;
+  transform: none !important;
+  border-radius: 0.375rem;
+}
+
+/* Ensure search icon and theme toggle icon are visible */
+header button svg,
+.search-button svg,
+.appearance-switcher svg,
+[data-search-toggle] svg,
+[data-appearance-toggle] svg {
+  fill: rgb(var(--color-neutral-900));
+  stroke: rgb(var(--color-neutral-900));
+}
